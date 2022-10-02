@@ -1,5 +1,5 @@
 //  Task 1
- 
+
  function sandwich(bread, cheese) {
     let total;
     if (bread / 2 === cheese) {
